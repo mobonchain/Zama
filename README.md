@@ -1,3 +1,4 @@
+[![CI](https://github.com/your-username/Zama/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/Zama/actions/workflows/ci.yml)
 # Auto Commit Tool
 
 Script to automatically create backdated Git commits for any repository.
